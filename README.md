@@ -1,1 +1,1 @@
-# isomophic-react
+# isomorphic-react
